@@ -1,4 +1,2 @@
-JavaScript Style Guide
-#h1 Понятные имена переменных и функций
-:)
-:(
+__JavaScript Style Guide__
+-#h1 Понятные имена переменных и функций
